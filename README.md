@@ -4,4 +4,4 @@ this is a test.
 
 add a line
 
-new line3
+new line3 resolve confict
